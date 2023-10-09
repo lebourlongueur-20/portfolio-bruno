@@ -10,9 +10,7 @@ import Footer from '../components/Footer.vue';
     </header>
 
     <main class="flex-shrink-0 pb-5">
-      <div class="container">
         <slot />
-      </div>
     </main>
 
     <Footer />
