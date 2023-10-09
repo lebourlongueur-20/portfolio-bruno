@@ -11,7 +11,7 @@ import About from './pages/About.vue';
 // Définition des routes
 const routes = [
   { path: '/', component: Home },
-  { path: '/about', component: About },
+  { path: '/About', component: About },
 ];
 
 // Création du routeur
